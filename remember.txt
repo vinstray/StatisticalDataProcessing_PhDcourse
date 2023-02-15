@@ -1,0 +1,3 @@
+devtools::install_github("renkun-ken/repr", ref = "fix-html-filter")
+
+Skewness is a measure of symmetry, or more precisely, the lack of symmetry. A distribution, or data set, is symmetric if it looks the same to the left and right of the center point. Kurtosis is a measure of whether the data are heavy-tailed or light-tailed relative to a normal distribution.
